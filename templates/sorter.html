@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    .collapsible {
+      background-color: #777;
+      color: white;
+      cursor: pointer;
+      padding: 18px;
+      width: 100%;
+      border: none;
+      text-align: left;
+      outline: none;
+      font-size: 15px;
+    }
+
+    .active,
+    .collapsible:hover {
+      background-color: #555;
+    }
+
+    .content {
+      padding: 0 18px;
+      max-height: 0;
+      overflow: hidden;
+      transition: max-height 0.2s ease-out;
+      background-color: #f1f1f1;
+    }
+
+  </style>
+  <title>Emotes</title>
+</head>
+
+<body>
+  <button onclick="toggleAmarelo()">Amarelo</button>
+  <button onclick="toggleLaranja()">Laranja</button>
+  <button onclick="toggleRosa()">Rosa</button>
+
+  <button class="collapsible">Era Amarela</button>
+  <div id="amarelo" class="content">
+    {%- for emote in color_sort.amarelo -%}
+    <img src="{{ emote['url'] }}" alt="{{ emote['name'] }}" onclick="clickHandler(this)">
+    {% endfor %}
+  </div>
+
+  <button class="collapsible">Era Laranja</button>
+  <div id="laranja" class="content">
+    {%- for emote in color_sort.laranja -%}
+    <img src="{{ emote['url'] }}" alt="{{ emote['name'] }}" onclick="clickHandler(this)">
+    {% endfor %}
+  </div>
+
+  <button class="collapsible">Era Rosa</button>
+  <div id="rosa" class="content">
+    {%- for emote in color_sort.rosa -%}
+    <img src="{{ emote['url'] }}" alt="{{ emote['name'] }}" onclick="clickHandler(this)">
+    {% endfor %}
+    
+  </div>
+
+  <script>
+    let COR = ""
+
+    let cores = {
+      amarelo: [],
+      laranja: [],
+      rosa: []
+    }
+
+    function toggleAmarelo() {
+      COR = 'amarelo'
+    }
+    function toggleLaranja() {
+      COR = 'laranja'
+    }
+    function toggleRosa() {
+      COR = 'rosa'
+    }
+
+
+    function clickHandler(e) {
+      let regex = new RegExp(/[\w-]+(?=\/default)/)
+      let emote_id = regex.exec(e.src)
+      cores[COR].push(emote_id)
+    }
+
+    const coll = document.getElementsByClassName("collapsible");
+
+    for (let i = 0; i < coll.length; i++) {
+      coll[i].addEventListener("click", function () {
+        this.classList.toggle("active");
+        const content = this.nextElementSibling;
+        if (content.style.maxHeight) {
+          content.style.maxHeight = null;
+        } else {
+          content.style.maxHeight = content.scrollHeight + "px";
+        }
+      });
+    }
+  </script>
+</body>
+
+</html>
