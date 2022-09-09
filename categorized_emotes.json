@@ -1,0 +1,5562 @@
+[
+  {
+    "id": "306325796",
+    "name": "felps190",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306325796/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "306316485",
+    "name": "felps190",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306316485/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "303685092",
+    "name": "felps190",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303685092/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "308018033",
+    "name": "felps190",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/308018033/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "303685092_BW",
+    "name": "felps190_BW",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303685092_BW/default/dark/3.0",
+    "is_variant": true,
+    "is_community": false,
+    "color": ""
+  },
+  {
+    "id": "308018033_HF",
+    "name": "felps190_HF",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/308018033_HF/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "306325796_HF",
+    "name": "felps190_HF",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306325796_HF/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "306316485_HF",
+    "name": "felps190_HF",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306316485_HF/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "303685092_HF",
+    "name": "felps190_HF",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303685092_HF/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "303685092_SA",
+    "name": "felps190_SA",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303685092_SA/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "308018033_SQ",
+    "name": "felps190_SQ",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/308018033_SQ/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "303685092_SQ",
+    "name": "felps190_SQ",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303685092_SQ/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "306325796_TK",
+    "name": "felps190_TK",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306325796_TK/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "308018033_TK",
+    "name": "felps190_TK",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/308018033_TK/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "303685092_TK",
+    "name": "felps190_TK",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303685092_TK/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "emotesv2_df3db5e490364ae98e9fb6eefebcfcf2",
+    "name": "felps2022",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_df3db5e490364ae98e9fb6eefebcfcf2/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": false,
+    "is_community": true
+  },
+  {
+    "id": "308018116",
+    "name": "felpsAYAYA",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/308018116/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "306316331",
+    "name": "felpsAYAYA",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306316331/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "306325803",
+    "name": "felpsAYAYA",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306325803/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "306325803_HF",
+    "name": "felpsAYAYA_HF",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306325803_HF/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "308018116_HF",
+    "name": "felpsAYAYA_HF",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/308018116_HF/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "306325803_LH",
+    "name": "felpsAYAYA_LH",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306325803_LH/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "306325803_RB",
+    "name": "felpsAYAYA_RB",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306325803_RB/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "308018116_SQ",
+    "name": "felpsAYAYA_SQ",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/308018116_SQ/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "306325803_SQ",
+    "name": "felpsAYAYA_SQ",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306325803_SQ/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "308018116_TK",
+    "name": "felpsAYAYA_TK",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/308018116_TK/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "emotesv2_9fe95bf0e599468cacbe24804f64df3e",
+    "name": "felpsAdo",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_9fe95bf0e599468cacbe24804f64df3e/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "306316260",
+    "name": "felpsAmor",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306316260/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "308018115",
+    "name": "felpsAmor",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/308018115/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "306325794",
+    "name": "felpsAmor",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306325794/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "303685117",
+    "name": "felpsAmor",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303685117/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "308018115_BW",
+    "name": "felpsAmor_BW",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/308018115_BW/default/dark/3.0",
+    "is_variant": true,
+    "is_community": false,
+    "color": ""
+  },
+  {
+    "id": "303685117_BW",
+    "name": "felpsAmor_BW",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303685117_BW/default/dark/3.0",
+    "is_variant": true,
+    "is_community": false,
+    "color": ""
+  },
+  {
+    "id": "306325794_BW",
+    "name": "felpsAmor_BW",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306325794_BW/default/dark/3.0",
+    "is_variant": true,
+    "is_community": false,
+    "color": ""
+  },
+  {
+    "id": "306325794_FC",
+    "name": "felpsAmor_FC",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306325794_FC/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "308018115_FF",
+    "name": "felpsAmor_FF",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/308018115_FF/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "306325794_HF",
+    "name": "felpsAmor_HF",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306325794_HF/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "303685117_HF",
+    "name": "felpsAmor_HF",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303685117_HF/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "308018115_HF",
+    "name": "felpsAmor_HF",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/308018115_HF/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "306325794_LH",
+    "name": "felpsAmor_LH",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306325794_LH/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "303685117_SG",
+    "name": "felpsAmor_SG",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303685117_SG/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "308018115_SG",
+    "name": "felpsAmor_SG",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/308018115_SG/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "303685117_SQ",
+    "name": "felpsAmor_SQ",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303685117_SQ/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "306325794_SQ",
+    "name": "felpsAmor_SQ",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306325794_SQ/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "308018115_SQ",
+    "name": "felpsAmor_SQ",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/308018115_SQ/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "303685117_TK",
+    "name": "felpsAmor_TK",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303685117_TK/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "306325794_TK",
+    "name": "felpsAmor_TK",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306325794_TK/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "308018115_TK",
+    "name": "felpsAmor_TK",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/308018115_TK/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "emotesv2_128bfcf7b0cb47f690db9889ae26d213",
+    "name": "felpsAnota",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_128bfcf7b0cb47f690db9889ae26d213/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "emotesv2_128bfcf7b0cb47f690db9889ae26d213_HF",
+    "name": "felpsAnota_HF",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_128bfcf7b0cb47f690db9889ae26d213_HF/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "emotesv2_b21863ec007441ce8da5cb09db757f94",
+    "name": "felpsAnoversario",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_b21863ec007441ce8da5cb09db757f94/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "303649485",
+    "name": "felpsAyaya",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303649485/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "303649485_BW",
+    "name": "felpsAyaya_BW",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303649485_BW/default/dark/3.0",
+    "is_variant": true,
+    "is_community": false,
+    "color": ""
+  },
+  {
+    "id": "303649485_HF",
+    "name": "felpsAyaya_HF",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303649485_HF/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "303649485_PM",
+    "name": "felpsAyaya_PM",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303649485_PM/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "303649485_SF",
+    "name": "felpsAyaya_SF",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303649485_SF/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "303649485_SG",
+    "name": "felpsAyaya_SG",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303649485_SG/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "303649485_SQ",
+    "name": "felpsAyaya_SQ",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303649485_SQ/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "303649485_TK",
+    "name": "felpsAyaya_TK",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303649485_TK/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "306316568",
+    "name": "felpsBAN",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306316568/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "308018117",
+    "name": "felpsBAN",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/308018117/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "303684998",
+    "name": "felpsBAN",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303684998/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "306325805",
+    "name": "felpsBAN",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306325805/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "303684998_BW",
+    "name": "felpsBAN_BW",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303684998_BW/default/dark/3.0",
+    "is_variant": true,
+    "is_community": false,
+    "color": ""
+  },
+  {
+    "id": "306325805_BW",
+    "name": "felpsBAN_BW",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306325805_BW/default/dark/3.0",
+    "is_variant": true,
+    "is_community": false,
+    "color": ""
+  },
+  {
+    "id": "306325805_HF",
+    "name": "felpsBAN_HF",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306325805_HF/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "303684998_HF",
+    "name": "felpsBAN_HF",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303684998_HF/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "308018117_HF",
+    "name": "felpsBAN_HF",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/308018117_HF/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "303684998_PM",
+    "name": "felpsBAN_PM",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303684998_PM/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "303684998_SA",
+    "name": "felpsBAN_SA",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303684998_SA/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "308018117_SG",
+    "name": "felpsBAN_SG",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/308018117_SG/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "303684998_SQ",
+    "name": "felpsBAN_SQ",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303684998_SQ/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "306325805_SQ",
+    "name": "felpsBAN_SQ",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306325805_SQ/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "303684998_TK",
+    "name": "felpsBAN_TK",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303684998_TK/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "308018117_TK",
+    "name": "felpsBAN_TK",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/308018117_TK/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "306325805_TK",
+    "name": "felpsBAN_TK",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306325805_TK/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "emotesv2_e53589c687c846c9939ee8e8bb59d895",
+    "name": "felpsBanheiro",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_e53589c687c846c9939ee8e8bb59d895/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": false,
+    "is_community": true
+  },
+  {
+    "id": "emotesv2_e53589c687c846c9939ee8e8bb59d895_HF",
+    "name": "felpsBanheiro_HF",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_e53589c687c846c9939ee8e8bb59d895_HF/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "emotesv2_9bc2cdf1d84f4199b8f0ef1d256d273d",
+    "name": "felpsBleh",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_9bc2cdf1d84f4199b8f0ef1d256d273d/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "303338972",
+    "name": "felpsBless",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303338972/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "306325810",
+    "name": "felpsBless",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306325810/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "308018118",
+    "name": "felpsBless",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/308018118/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "306316601",
+    "name": "felpsBless",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306316601/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "303338972_BW",
+    "name": "felpsBless_BW",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303338972_BW/default/dark/3.0",
+    "is_variant": true,
+    "is_community": false,
+    "color": ""
+  },
+  {
+    "id": "306325810_FC",
+    "name": "felpsBless_FC",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306325810_FC/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "306325810_HF",
+    "name": "felpsBless_HF",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306325810_HF/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "308018118_HF",
+    "name": "felpsBless_HF",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/308018118_HF/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "303338972_HF",
+    "name": "felpsBless_HF",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303338972_HF/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "303338972_RD",
+    "name": "felpsBless_RD",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303338972_RD/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "303338972_SA",
+    "name": "felpsBless_SA",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303338972_SA/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "303338972_SF",
+    "name": "felpsBless_SF",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303338972_SF/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "303338972_SG",
+    "name": "felpsBless_SG",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303338972_SG/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "306325810_SG",
+    "name": "felpsBless_SG",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306325810_SG/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "308018118_SG",
+    "name": "felpsBless_SG",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/308018118_SG/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "303338972_SQ",
+    "name": "felpsBless_SQ",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303338972_SQ/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "306325810_SQ",
+    "name": "felpsBless_SQ",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306325810_SQ/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "306325810_TK",
+    "name": "felpsBless_TK",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306325810_TK/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "emotesv2_6bf1e3fd8bc846d7a9394267a66a4299",
+    "name": "felpsBolo",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_6bf1e3fd8bc846d7a9394267a66a4299/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "emotesv2_9cfdbe8bedea49c19f177754734f66f3",
+    "name": "felpsBumbum",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_9cfdbe8bedea49c19f177754734f66f3/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "emotesv2_b56c94868a37430280fe4352128d7c56",
+    "name": "felpsBumbum",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_b56c94868a37430280fe4352128d7c56/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "emotesv2_65cc86b066834e78915235f5e218615b",
+    "name": "felpsBumbum",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_65cc86b066834e78915235f5e218615b/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "308018122",
+    "name": "felpsBurro",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/308018122/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "306325872",
+    "name": "felpsBurro",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306325872/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "306316461",
+    "name": "felpsBurro",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306316461/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "303332596",
+    "name": "felpsBurro",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303332596/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "303332596_HF",
+    "name": "felpsBurro_HF",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303332596_HF/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "308018122_HF",
+    "name": "felpsBurro_HF",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/308018122_HF/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "303332596_SG",
+    "name": "felpsBurro_SG",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303332596_SG/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "306325872_SG",
+    "name": "felpsBurro_SG",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306325872_SG/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "308018122_SQ",
+    "name": "felpsBurro_SQ",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/308018122_SQ/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "303332596_SQ",
+    "name": "felpsBurro_SQ",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303332596_SQ/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "303332596_TK",
+    "name": "felpsBurro_TK",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303332596_TK/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "308018122_TK",
+    "name": "felpsBurro_TK",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/308018122_TK/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "306325872_TK",
+    "name": "felpsBurro_TK",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306325872_TK/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "303332596_WH",
+    "name": "felpsBurro_WH",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303332596_WH/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "emotesv2_d60a68c9e79e4645b68094d1a389170f",
+    "name": "felpsCadeira",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_d60a68c9e79e4645b68094d1a389170f/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "emotesv2_d60a68c9e79e4645b68094d1a389170f_BW",
+    "name": "felpsCadeira_BW",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_d60a68c9e79e4645b68094d1a389170f_BW/default/dark/3.0",
+    "is_variant": true,
+    "is_community": false,
+    "color": ""
+  },
+  {
+    "id": "emotesv2_d60a68c9e79e4645b68094d1a389170f_HF",
+    "name": "felpsCadeira_HF",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_d60a68c9e79e4645b68094d1a389170f_HF/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "emotesv2_d60a68c9e79e4645b68094d1a389170f_SQ",
+    "name": "felpsCadeira_SQ",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_d60a68c9e79e4645b68094d1a389170f_SQ/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "emotesv2_d60a68c9e79e4645b68094d1a389170f_TK",
+    "name": "felpsCadeira_TK",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_d60a68c9e79e4645b68094d1a389170f_TK/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "306325867",
+    "name": "felpsCafe",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306325867/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "303690450",
+    "name": "felpsCafe",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303690450/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "306316376",
+    "name": "felpsCafe",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306316376/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "306325867_BT",
+    "name": "felpsCafe_BT",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306325867_BT/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "303690450_HF",
+    "name": "felpsCafe_HF",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303690450_HF/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "306325867_HF",
+    "name": "felpsCafe_HF",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306325867_HF/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "303690450_RD",
+    "name": "felpsCafe_RD",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303690450_RD/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "303690450_SG",
+    "name": "felpsCafe_SG",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303690450_SG/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "306325867_SG",
+    "name": "felpsCafe_SG",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306325867_SG/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "303690450_SQ",
+    "name": "felpsCafe_SQ",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303690450_SQ/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "306325867_SQ",
+    "name": "felpsCafe_SQ",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306325867_SQ/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "306325867_TK",
+    "name": "felpsCafe_TK",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306325867_TK/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "303690450_TK",
+    "name": "felpsCafe_TK",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303690450_TK/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "303630075",
+    "name": "felpsCarinha",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303630075/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "emotesv2_0d98e0729db34d4abdc26c325414d4f8",
+    "name": "felpsCarinha",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_0d98e0729db34d4abdc26c325414d4f8/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "306325785",
+    "name": "felpsCarinha",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306325785/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "308017706",
+    "name": "felpsCarinha",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/308017706/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "306315857",
+    "name": "felpsCarinha",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306315857/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "306325785_BE",
+    "name": "felpsCarinha_BE",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306325785_BE/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "308017706_BW",
+    "name": "felpsCarinha_BW",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/308017706_BW/default/dark/3.0",
+    "is_variant": true,
+    "is_community": false,
+    "color": ""
+  },
+  {
+    "id": "306325785_BW",
+    "name": "felpsCarinha_BW",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306325785_BW/default/dark/3.0",
+    "is_variant": true,
+    "is_community": false,
+    "color": ""
+  },
+  {
+    "id": "306315857_BW",
+    "name": "felpsCarinha_BW",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306315857_BW/default/dark/3.0",
+    "is_variant": true,
+    "is_community": false,
+    "color": ""
+  },
+  {
+    "id": "303630075_BW",
+    "name": "felpsCarinha_BW",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303630075_BW/default/dark/3.0",
+    "is_variant": true,
+    "is_community": false,
+    "color": ""
+  },
+  {
+    "id": "306325785_FC",
+    "name": "felpsCarinha_FC",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306325785_FC/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "306315857_HF",
+    "name": "felpsCarinha_HF",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306315857_HF/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "306325785_HF",
+    "name": "felpsCarinha_HF",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306325785_HF/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "308017706_HF",
+    "name": "felpsCarinha_HF",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/308017706_HF/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "303630075_HF",
+    "name": "felpsCarinha_HF",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303630075_HF/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "303630075_PM",
+    "name": "felpsCarinha_PM",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303630075_PM/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "303630075_RD",
+    "name": "felpsCarinha_RD",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303630075_RD/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "303630075_SA",
+    "name": "felpsCarinha_SA",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303630075_SA/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "308017706_SG",
+    "name": "felpsCarinha_SG",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/308017706_SG/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "303630075_SG",
+    "name": "felpsCarinha_SG",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303630075_SG/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "303630075_SM",
+    "name": "felpsCarinha_SM",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303630075_SM/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "306325785_SQ",
+    "name": "felpsCarinha_SQ",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306325785_SQ/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "303630075_SQ",
+    "name": "felpsCarinha_SQ",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303630075_SQ/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "308017706_SQ",
+    "name": "felpsCarinha_SQ",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/308017706_SQ/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "308017706_TK",
+    "name": "felpsCarinha_TK",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/308017706_TK/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "303630075_TK",
+    "name": "felpsCarinha_TK",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303630075_TK/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "306325785_TK",
+    "name": "felpsCarinha_TK",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306325785_TK/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "emotesv2_9b1adcc443a34529a069651f92663eb3",
+    "name": "felpsCebolaBom",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_9b1adcc443a34529a069651f92663eb3/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": false,
+    "is_community": true
+  },
+  {
+    "id": "emotesv2_d5eb95f870494153a8dd08cf07a6f724",
+    "name": "felpsCego",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_d5eb95f870494153a8dd08cf07a6f724/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "emotesv2_d5eb95f870494153a8dd08cf07a6f724_BW",
+    "name": "felpsCego_BW",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_d5eb95f870494153a8dd08cf07a6f724_BW/default/dark/3.0",
+    "is_variant": true,
+    "is_community": false,
+    "color": ""
+  },
+  {
+    "id": "emotesv2_d5eb95f870494153a8dd08cf07a6f724_SQ",
+    "name": "felpsCego_SQ",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_d5eb95f870494153a8dd08cf07a6f724_SQ/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "emotesv2_d5eb95f870494153a8dd08cf07a6f724_TK",
+    "name": "felpsCego_TK",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_d5eb95f870494153a8dd08cf07a6f724_TK/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "306316556",
+    "name": "felpsChorinho",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306316556/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "306325826",
+    "name": "felpsChorinho",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306325826/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "308018127",
+    "name": "felpsChorinho",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/308018127/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "303324106",
+    "name": "felpsChorinho",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303324106/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "306325826_BW",
+    "name": "felpsChorinho_BW",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306325826_BW/default/dark/3.0",
+    "is_variant": true,
+    "is_community": false,
+    "color": ""
+  },
+  {
+    "id": "306325826_HF",
+    "name": "felpsChorinho_HF",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306325826_HF/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "303324106_HF",
+    "name": "felpsChorinho_HF",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303324106_HF/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "306325826_SQ",
+    "name": "felpsChorinho_SQ",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306325826_SQ/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "303324106_SQ",
+    "name": "felpsChorinho_SQ",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303324106_SQ/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "308018127_SQ",
+    "name": "felpsChorinho_SQ",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/308018127_SQ/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "303324106_TK",
+    "name": "felpsChorinho_TK",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303324106_TK/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "306325826_TK",
+    "name": "felpsChorinho_TK",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306325826_TK/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "306325912",
+    "name": "felpsChuva",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306325912/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "306316619",
+    "name": "felpsChuva",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306316619/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "emotesv2_68b41af7cfd54b59879dac3554f42cc9",
+    "name": "felpsChuva",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_68b41af7cfd54b59879dac3554f42cc9/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "303688368",
+    "name": "felpsChuva",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303688368/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "308018131",
+    "name": "felpsChuva",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/308018131/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "306325912_BW",
+    "name": "felpsChuva_BW",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306325912_BW/default/dark/3.0",
+    "is_variant": true,
+    "is_community": false,
+    "color": ""
+  },
+  {
+    "id": "303688368_BW",
+    "name": "felpsChuva_BW",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303688368_BW/default/dark/3.0",
+    "is_variant": true,
+    "is_community": false,
+    "color": ""
+  },
+  {
+    "id": "308018131_BW",
+    "name": "felpsChuva_BW",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/308018131_BW/default/dark/3.0",
+    "is_variant": true,
+    "is_community": false,
+    "color": ""
+  },
+  {
+    "id": "303688368_HF",
+    "name": "felpsChuva_HF",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303688368_HF/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "303688368_SQ",
+    "name": "felpsChuva_SQ",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303688368_SQ/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "303688368_TK",
+    "name": "felpsChuva_TK",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303688368_TK/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "303338405",
+    "name": "felpsD",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303338405/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "308018133",
+    "name": "felpsD",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/308018133/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "306325875",
+    "name": "felpsD",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306325875/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "306316286",
+    "name": "felpsD",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306316286/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "303338405_BW",
+    "name": "felpsD_BW",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303338405_BW/default/dark/3.0",
+    "is_variant": true,
+    "is_community": false,
+    "color": ""
+  },
+  {
+    "id": "308018133_FB",
+    "name": "felpsD_FB",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/308018133_FB/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "303338405_HF",
+    "name": "felpsD_HF",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303338405_HF/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "308018133_HF",
+    "name": "felpsD_HF",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/308018133_HF/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "306325875_HF",
+    "name": "felpsD_HF",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306325875_HF/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "306325875_SQ",
+    "name": "felpsD_SQ",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306325875_SQ/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "303338405_SQ",
+    "name": "felpsD_SQ",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303338405_SQ/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "308018133_SQ",
+    "name": "felpsD_SQ",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/308018133_SQ/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "308018133_TK",
+    "name": "felpsD_TK",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/308018133_TK/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "303338405_TK",
+    "name": "felpsD_TK",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303338405_TK/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "308018133_UN",
+    "name": "felpsD_UN",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/308018133_UN/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "306316777",
+    "name": "felpsDe",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306316777/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "303332433",
+    "name": "felpsDe",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303332433/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "308021243",
+    "name": "felpsDe",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/308021243/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "306316777_BT",
+    "name": "felpsDe_BT",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306316777_BT/default/dark/3.0",
+    "is_variant": true,
+    "is_community": false,
+    "color": ""
+  },
+  {
+    "id": "308021243_BW",
+    "name": "felpsDe_BW",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/308021243_BW/default/dark/3.0",
+    "is_variant": true,
+    "is_community": false,
+    "color": ""
+  },
+  {
+    "id": "303332433_BW",
+    "name": "felpsDe_BW",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303332433_BW/default/dark/3.0",
+    "is_variant": true,
+    "is_community": false,
+    "color": ""
+  },
+  {
+    "id": "303332433_EV",
+    "name": "felpsDe_EV",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303332433_EV/default/dark/3.0",
+    "is_variant": true,
+    "is_community": false,
+    "color": ""
+  },
+  {
+    "id": "303332433_HE",
+    "name": "felpsDe_HE",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303332433_HE/default/dark/3.0",
+    "is_variant": true,
+    "is_community": false,
+    "color": ""
+  },
+  {
+    "id": "308021243_HF",
+    "name": "felpsDe_HF",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/308021243_HF/default/dark/3.0",
+    "is_variant": true,
+    "is_community": false,
+    "color": ""
+  },
+  {
+    "id": "303332433_HF",
+    "name": "felpsDe_HF",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303332433_HF/default/dark/3.0",
+    "is_variant": true,
+    "is_community": false,
+    "color": ""
+  },
+  {
+    "id": "306316777_HF",
+    "name": "felpsDe_HF",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306316777_HF/default/dark/3.0",
+    "is_variant": true,
+    "is_community": false,
+    "color": ""
+  },
+  {
+    "id": "303332433_PM",
+    "name": "felpsDe_PM",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303332433_PM/default/dark/3.0",
+    "is_variant": true,
+    "is_community": false,
+    "color": ""
+  },
+  {
+    "id": "303332433_SA",
+    "name": "felpsDe_SA",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303332433_SA/default/dark/3.0",
+    "is_variant": true,
+    "is_community": false,
+    "color": ""
+  },
+  {
+    "id": "303332433_SM",
+    "name": "felpsDe_SM",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303332433_SM/default/dark/3.0",
+    "is_variant": true,
+    "is_community": false,
+    "color": ""
+  },
+  {
+    "id": "308021243_SQ",
+    "name": "felpsDe_SQ",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/308021243_SQ/default/dark/3.0",
+    "is_variant": true,
+    "is_community": false,
+    "color": ""
+  },
+  {
+    "id": "303332433_SQ",
+    "name": "felpsDe_SQ",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303332433_SQ/default/dark/3.0",
+    "is_variant": true,
+    "is_community": false,
+    "color": ""
+  },
+  {
+    "id": "306316777_SQ",
+    "name": "felpsDe_SQ",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306316777_SQ/default/dark/3.0",
+    "is_variant": true,
+    "is_community": false,
+    "color": ""
+  },
+  {
+    "id": "306316777_TK",
+    "name": "felpsDe_TK",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306316777_TK/default/dark/3.0",
+    "is_variant": true,
+    "is_community": false,
+    "color": ""
+  },
+  {
+    "id": "303332433_TK",
+    "name": "felpsDe_TK",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303332433_TK/default/dark/3.0",
+    "is_variant": true,
+    "is_community": false,
+    "color": ""
+  },
+  {
+    "id": "308021243_TK",
+    "name": "felpsDe_TK",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/308021243_TK/default/dark/3.0",
+    "is_variant": true,
+    "is_community": false,
+    "color": ""
+  },
+  {
+    "id": "308021243_UN",
+    "name": "felpsDe_UN",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/308021243_UN/default/dark/3.0",
+    "is_variant": true,
+    "is_community": false,
+    "color": ""
+  },
+  {
+    "id": "303332433_WH",
+    "name": "felpsDe_WH",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303332433_WH/default/dark/3.0",
+    "is_variant": true,
+    "is_community": false,
+    "color": ""
+  },
+  {
+    "id": "emotesv2_fe755c90e2b34a8a924e75672e612731",
+    "name": "felpsDinheiro",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_fe755c90e2b34a8a924e75672e612731/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "emotesv2_fe755c90e2b34a8a924e75672e612731_HF",
+    "name": "felpsDinheiro_HF",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_fe755c90e2b34a8a924e75672e612731_HF/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "emotesv2_a21054e59a424f4eb2b6b0b7b5dcace9",
+    "name": "felpsDisfarce",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_a21054e59a424f4eb2b6b0b7b5dcace9/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "308018137",
+    "name": "felpsEZ",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/308018137/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "306316644",
+    "name": "felpsEZ",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306316644/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "306325905",
+    "name": "felpsEZ",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306325905/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "308018137_FF",
+    "name": "felpsEZ_FF",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/308018137_FF/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "306325905_HF",
+    "name": "felpsEZ_HF",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306325905_HF/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "308018137_SG",
+    "name": "felpsEZ_SG",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/308018137_SG/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "308018137_SQ",
+    "name": "felpsEZ_SQ",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/308018137_SQ/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "308018137_TK",
+    "name": "felpsEZ_TK",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/308018137_TK/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "306325905_TK",
+    "name": "felpsEZ_TK",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306325905_TK/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "emotesv2_66c36104d74b4d5c9efb4f92f2f86e95",
+    "name": "felpsEmoteMuuuuuuitoLegal",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_66c36104d74b4d5c9efb4f92f2f86e95/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "emotesv2_af4fa6e618f64f598572040e96603adf",
+    "name": "felpsEmoteMuuuuuuitoLegal",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_af4fa6e618f64f598572040e96603adf/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "emotesv2_7242120681e64302a7306357053ec7da",
+    "name": "felpsEscuro",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_7242120681e64302a7306357053ec7da/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "emotesv2_7242120681e64302a7306357053ec7da_SQ",
+    "name": "felpsEscuro_SQ",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_7242120681e64302a7306357053ec7da_SQ/default/dark/3.0",
+    "is_variant": true,
+    "is_community": false,
+    "color": ""
+  },
+  {
+    "id": "emotesv2_7242120681e64302a7306357053ec7da_TK",
+    "name": "felpsEscuro_TK",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_7242120681e64302a7306357053ec7da_TK/default/dark/3.0",
+    "is_variant": true,
+    "is_community": false,
+    "color": ""
+  },
+  {
+    "id": "emotesv2_05174bd2cfa04e8ebc62631994b17657",
+    "name": "felpsExclamaBan",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_05174bd2cfa04e8ebc62631994b17657/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": false,
+    "is_community": true
+  },
+  {
+    "id": "303346855",
+    "name": "felpsEz",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303346855/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "303346855_SG",
+    "name": "felpsEz_SG",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303346855_SG/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "303346855_SQ",
+    "name": "felpsEz_SQ",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303346855_SQ/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "303346855_TK",
+    "name": "felpsEz_TK",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303346855_TK/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "301319818",
+    "name": "felpsFace",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/301319818/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "301319818_BE",
+    "name": "felpsFace_BE",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/301319818_BE/default/dark/3.0",
+    "is_variant": true,
+    "is_community": false,
+    "color": ""
+  },
+  {
+    "id": "301319818_BN",
+    "name": "felpsFace_BN",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/301319818_BN/default/dark/3.0",
+    "is_variant": true,
+    "is_community": false,
+    "color": ""
+  },
+  {
+    "id": "301319818_BT",
+    "name": "felpsFace_BT",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/301319818_BT/default/dark/3.0",
+    "is_variant": true,
+    "is_community": false,
+    "color": ""
+  },
+  {
+    "id": "301319818_BW",
+    "name": "felpsFace_BW",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/301319818_BW/default/dark/3.0",
+    "is_variant": true,
+    "is_community": false,
+    "color": ""
+  },
+  {
+    "id": "301319818_EG",
+    "name": "felpsFace_EG",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/301319818_EG/default/dark/3.0",
+    "is_variant": true,
+    "is_community": false,
+    "color": ""
+  },
+  {
+    "id": "301319818_FF",
+    "name": "felpsFace_FF",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/301319818_FF/default/dark/3.0",
+    "is_variant": true,
+    "is_community": false,
+    "color": ""
+  },
+  {
+    "id": "301319818_HB",
+    "name": "felpsFace_HB",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/301319818_HB/default/dark/3.0",
+    "is_variant": true,
+    "is_community": false,
+    "color": ""
+  },
+  {
+    "id": "301319818_HF",
+    "name": "felpsFace_HF",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/301319818_HF/default/dark/3.0",
+    "is_variant": true,
+    "is_community": false,
+    "color": ""
+  },
+  {
+    "id": "301319818_LH",
+    "name": "felpsFace_LH",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/301319818_LH/default/dark/3.0",
+    "is_variant": true,
+    "is_community": false,
+    "color": ""
+  },
+  {
+    "id": "301319818_RB",
+    "name": "felpsFace_RB",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/301319818_RB/default/dark/3.0",
+    "is_variant": true,
+    "is_community": false,
+    "color": ""
+  },
+  {
+    "id": "301319818_RD",
+    "name": "felpsFace_RD",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/301319818_RD/default/dark/3.0",
+    "is_variant": true,
+    "is_community": false,
+    "color": ""
+  },
+  {
+    "id": "301319818_SA",
+    "name": "felpsFace_SA",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/301319818_SA/default/dark/3.0",
+    "is_variant": true,
+    "is_community": false,
+    "color": ""
+  },
+  {
+    "id": "301319818_SG",
+    "name": "felpsFace_SG",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/301319818_SG/default/dark/3.0",
+    "is_variant": true,
+    "is_community": false,
+    "color": ""
+  },
+  {
+    "id": "301319818_SM",
+    "name": "felpsFace_SM",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/301319818_SM/default/dark/3.0",
+    "is_variant": true,
+    "is_community": false,
+    "color": ""
+  },
+  {
+    "id": "301319818_SQ",
+    "name": "felpsFace_SQ",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/301319818_SQ/default/dark/3.0",
+    "is_variant": true,
+    "is_community": false,
+    "color": ""
+  },
+  {
+    "id": "301319818_TK",
+    "name": "felpsFace_TK",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/301319818_TK/default/dark/3.0",
+    "is_variant": true,
+    "is_community": false,
+    "color": ""
+  },
+  {
+    "id": "301319818_WH",
+    "name": "felpsFace_WH",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/301319818_WH/default/dark/3.0",
+    "is_variant": true,
+    "is_community": false,
+    "color": ""
+  },
+  {
+    "id": "emotesv2_b6689c5a463e4b9b8449b6e7495c1721",
+    "name": "felpsFastasma",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_b6689c5a463e4b9b8449b6e7495c1721/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": false,
+    "is_community": true
+  },
+  {
+    "id": "emotesv2_c9005870ef5f43409f33ca6d2a86e34b",
+    "name": "felpsGalinha",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_c9005870ef5f43409f33ca6d2a86e34b/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": false,
+    "is_community": true
+  },
+  {
+    "id": "emotesv2_c9005870ef5f43409f33ca6d2a86e34b_SQ",
+    "name": "felpsGalinha_SQ",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_c9005870ef5f43409f33ca6d2a86e34b_SQ/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "306325862",
+    "name": "felpsGasm",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306325862/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "308018138",
+    "name": "felpsGasm",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/308018138/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "303690473",
+    "name": "felpsGasm",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303690473/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "306316449",
+    "name": "felpsGasm",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306316449/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "306325862_BW",
+    "name": "felpsGasm_BW",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306325862_BW/default/dark/3.0",
+    "is_variant": true,
+    "is_community": false,
+    "color": ""
+  },
+  {
+    "id": "303690473_BW",
+    "name": "felpsGasm_BW",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303690473_BW/default/dark/3.0",
+    "is_variant": true,
+    "is_community": false,
+    "color": ""
+  },
+  {
+    "id": "306325862_EG",
+    "name": "felpsGasm_EG",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306325862_EG/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "308018138_FB",
+    "name": "felpsGasm_FB",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/308018138_FB/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "303690473_HE",
+    "name": "felpsGasm_HE",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303690473_HE/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "308018138_HF",
+    "name": "felpsGasm_HF",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/308018138_HF/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "303690473_HF",
+    "name": "felpsGasm_HF",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303690473_HF/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "306325862_HF",
+    "name": "felpsGasm_HF",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306325862_HF/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "303690473_PM",
+    "name": "felpsGasm_PM",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303690473_PM/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "303690473_RD",
+    "name": "felpsGasm_RD",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303690473_RD/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "303690473_SF",
+    "name": "felpsGasm_SF",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303690473_SF/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "306325862_SG",
+    "name": "felpsGasm_SG",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306325862_SG/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "303690473_SG",
+    "name": "felpsGasm_SG",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303690473_SG/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "306325862_SQ",
+    "name": "felpsGasm_SQ",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306325862_SQ/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "308018138_SQ",
+    "name": "felpsGasm_SQ",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/308018138_SQ/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "303690473_SQ",
+    "name": "felpsGasm_SQ",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303690473_SQ/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "303690473_TK",
+    "name": "felpsGasm_TK",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303690473_TK/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "306325862_TK",
+    "name": "felpsGasm_TK",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306325862_TK/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "308018138_TK",
+    "name": "felpsGasm_TK",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/308018138_TK/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "emotesv2_d813e2f79d3145a0b5f7f02659f22b78",
+    "name": "felpsGasosa",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_d813e2f79d3145a0b5f7f02659f22b78/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": false,
+    "is_community": true
+  },
+  {
+    "id": "emotesv2_d813e2f79d3145a0b5f7f02659f22b78_HF",
+    "name": "felpsGasosa_HF",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_d813e2f79d3145a0b5f7f02659f22b78_HF/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "emotesv2_d813e2f79d3145a0b5f7f02659f22b78_TK",
+    "name": "felpsGasosa_TK",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_d813e2f79d3145a0b5f7f02659f22b78_TK/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "emotesv2_db9a37df2b6c472fbff75f20a8fe0cbf",
+    "name": "felpsGift",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_db9a37df2b6c472fbff75f20a8fe0cbf/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "emotesv2_db9a37df2b6c472fbff75f20a8fe0cbf_HF",
+    "name": "felpsGift_HF",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_db9a37df2b6c472fbff75f20a8fe0cbf_HF/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "emotesv2_db9a37df2b6c472fbff75f20a8fe0cbf_SQ",
+    "name": "felpsGift_SQ",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_db9a37df2b6c472fbff75f20a8fe0cbf_SQ/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "308018141",
+    "name": "felpsGole",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/308018141/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "306325918",
+    "name": "felpsHL",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306325918/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "308018149",
+    "name": "felpsHL",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/308018149/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "306316736",
+    "name": "felpsHL",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306316736/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "303685113",
+    "name": "felpsHL",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303685113/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "303685113_BW",
+    "name": "felpsHL_BW",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303685113_BW/default/dark/3.0",
+    "is_variant": true,
+    "is_community": false,
+    "color": ""
+  },
+  {
+    "id": "303685113_HF",
+    "name": "felpsHL_HF",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303685113_HF/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "306325918_HF",
+    "name": "felpsHL_HF",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306325918_HF/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "308018149_HF",
+    "name": "felpsHL_HF",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/308018149_HF/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "303685113_SA",
+    "name": "felpsHL_SA",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303685113_SA/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "303685113_SG",
+    "name": "felpsHL_SG",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303685113_SG/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "306325918_SQ",
+    "name": "felpsHL_SQ",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306325918_SQ/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "308018149_SQ",
+    "name": "felpsHL_SQ",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/308018149_SQ/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "303685113_TK",
+    "name": "felpsHL_TK",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303685113_TK/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "308018149_TK",
+    "name": "felpsHL_TK",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/308018149_TK/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "303690294",
+    "name": "felpsHead",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303690294/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "306316616",
+    "name": "felpsHead",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306316616/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "306325902",
+    "name": "felpsHead",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306325902/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "308018146",
+    "name": "felpsHead",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/308018146/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "303690294_BW",
+    "name": "felpsHead_BW",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303690294_BW/default/dark/3.0",
+    "is_variant": true,
+    "is_community": false,
+    "color": ""
+  },
+  {
+    "id": "306325902_FC",
+    "name": "felpsHead_FC",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306325902_FC/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "308018146_HF",
+    "name": "felpsHead_HF",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/308018146_HF/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "306325902_RB",
+    "name": "felpsHead_RB",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306325902_RB/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "303690294_SA",
+    "name": "felpsHead_SA",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303690294_SA/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "308018146_SG",
+    "name": "felpsHead_SG",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/308018146_SG/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "303690294_SQ",
+    "name": "felpsHead_SQ",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303690294_SQ/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "308018146_SQ",
+    "name": "felpsHead_SQ",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/308018146_SQ/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "303690294_TK",
+    "name": "felpsHead_TK",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303690294_TK/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "308018146_TK",
+    "name": "felpsHead_TK",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/308018146_TK/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "306325902_TK",
+    "name": "felpsHead_TK",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306325902_TK/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "303324149",
+    "name": "felpsHeh",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303324149/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "306325808",
+    "name": "felpsHeh",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306325808/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "308018242",
+    "name": "felpsHeh",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/308018242/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "306316309",
+    "name": "felpsHeh1",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306316309/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "306325920",
+    "name": "felpsHeh2",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306325920/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "303685212",
+    "name": "felpsHeh2",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303685212/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "308018246",
+    "name": "felpsHeh2",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/308018246/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "306325920_HF",
+    "name": "felpsHeh2_HF",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306325920_HF/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "303685212_HF",
+    "name": "felpsHeh2_HF",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303685212_HF/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "303685212_TK",
+    "name": "felpsHeh2_TK",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303685212_TK/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "306316316",
+    "name": "felpsHeh3",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306316316/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "306325921",
+    "name": "felpsHeh3",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306325921/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "303798961",
+    "name": "felpsHeh3",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303798961/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "308018250",
+    "name": "felpsHeh3",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/308018250/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "303798961_HF",
+    "name": "felpsHeh3_HF",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303798961_HF/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "306325921_HF",
+    "name": "felpsHeh3_HF",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306325921_HF/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "308018250_HF",
+    "name": "felpsHeh3_HF",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/308018250_HF/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "306325923",
+    "name": "felpsHeh4",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306325923/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "306316320",
+    "name": "felpsHeh4",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306316320/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "308018252",
+    "name": "felpsHeh4",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/308018252/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "308018252_SQ",
+    "name": "felpsHeh4_SQ",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/308018252_SQ/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "307313647",
+    "name": "felpsHeh5",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/307313647/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "308018254",
+    "name": "felpsHeh5",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/308018254/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "308018254_HF",
+    "name": "felpsHeh5_HF",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/308018254_HF/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "308018254_SQ",
+    "name": "felpsHeh5_SQ",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/308018254_SQ/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "303324149_SG",
+    "name": "felpsHeh_SG",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303324149_SG/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "303324149_TK",
+    "name": "felpsHeh_TK",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303324149_TK/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "308018242_TK",
+    "name": "felpsHeh_TK",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/308018242_TK/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "306325858",
+    "name": "felpsHmm",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306325858/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "303332241",
+    "name": "felpsHmm",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303332241/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "308018154",
+    "name": "felpsHmm",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/308018154/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "306316607",
+    "name": "felpsHmm",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306316607/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "303332241_HF",
+    "name": "felpsHmm_HF",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303332241_HF/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "308018154_HF",
+    "name": "felpsHmm_HF",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/308018154_HF/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "303332241_SQ",
+    "name": "felpsHmm_SQ",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303332241_SQ/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "306325858_SQ",
+    "name": "felpsHmm_SQ",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306325858_SQ/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "303332241_TK",
+    "name": "felpsHmm_TK",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303332241_TK/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "306325858_TK",
+    "name": "felpsHmm_TK",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306325858_TK/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "308018154_TK",
+    "name": "felpsHmm_TK",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/308018154_TK/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "303324150",
+    "name": "felpsHominho",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303324150/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "306316710",
+    "name": "felpsHominho",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306316710/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "306325864",
+    "name": "felpsHominho",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306325864/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "308018261",
+    "name": "felpsHominho",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/308018261/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "308018264",
+    "name": "felpsHominho2",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/308018264/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "303685214",
+    "name": "felpsHominho2",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303685214/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "306325925",
+    "name": "felpsHominho2",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306325925/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "306325928",
+    "name": "felpsHominho3",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306325928/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "308018266",
+    "name": "felpsHominho3",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/308018266/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "303798964",
+    "name": "felpsHominho3",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303798964/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "303798964_SG",
+    "name": "felpsHominho3_SG",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303798964_SG/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "303798964_SQ",
+    "name": "felpsHominho3_SQ",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303798964_SQ/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "306325931",
+    "name": "felpsHominho4",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306325931/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "308018269",
+    "name": "felpsHominho4",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/308018269/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "307313653",
+    "name": "felpsHominho5",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/307313653/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "308018271",
+    "name": "felpsHominho5",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/308018271/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "303324150_BW",
+    "name": "felpsHominho_BW",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303324150_BW/default/dark/3.0",
+    "is_variant": true,
+    "is_community": false,
+    "color": ""
+  },
+  {
+    "id": "308018261_BW",
+    "name": "felpsHominho_BW",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/308018261_BW/default/dark/3.0",
+    "is_variant": true,
+    "is_community": false,
+    "color": ""
+  },
+  {
+    "id": "308018261_HF",
+    "name": "felpsHominho_HF",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/308018261_HF/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "303324150_HF",
+    "name": "felpsHominho_HF",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303324150_HF/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "308018261_SQ",
+    "name": "felpsHominho_SQ",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/308018261_SQ/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "303324150_SQ",
+    "name": "felpsHominho_SQ",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303324150_SQ/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "303324150_TK",
+    "name": "felpsHominho_TK",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303324150_TK/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "emotesv2_91bd43467edb42a38e00988f4d2a6094",
+    "name": "felpsJoia",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_91bd43467edb42a38e00988f4d2a6094/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "emotesv2_91bd43467edb42a38e00988f4d2a6094_HF",
+    "name": "felpsJoia_HF",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_91bd43467edb42a38e00988f4d2a6094_HF/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "emotesv2_91bd43467edb42a38e00988f4d2a6094_TK",
+    "name": "felpsJoia_TK",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_91bd43467edb42a38e00988f4d2a6094_TK/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "emotesv2_323dc17074eb4a4d8982d5f859fbb49b",
+    "name": "felpsJuliette",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_323dc17074eb4a4d8982d5f859fbb49b/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": false,
+    "is_community": true
+  },
+  {
+    "id": "emotesv2_d2475191cc444ffda36b927232a28b79",
+    "name": "felpsKEKW",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_d2475191cc444ffda36b927232a28b79/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "emotesv2_d96d25629e9c460f9641b4014e1e9482",
+    "name": "felpsKekw",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_d96d25629e9c460f9641b4014e1e9482/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "emotesv2_fa0e439ae9dd4c6c9a2141c145ead227",
+    "name": "felpsLESGO",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_fa0e439ae9dd4c6c9a2141c145ead227/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "emotesv2_fa0e439ae9dd4c6c9a2141c145ead227_HF",
+    "name": "felpsLESGO_HF",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_fa0e439ae9dd4c6c9a2141c145ead227_HF/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "emotesv2_fa0e439ae9dd4c6c9a2141c145ead227_SQ",
+    "name": "felpsLESGO_SQ",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_fa0e439ae9dd4c6c9a2141c145ead227_SQ/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "emotesv2_fa0e439ae9dd4c6c9a2141c145ead227_TK",
+    "name": "felpsLESGO_TK",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_fa0e439ae9dd4c6c9a2141c145ead227_TK/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "308018168",
+    "name": "felpsLUL",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/308018168/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "303359643",
+    "name": "felpsLUL",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303359643/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "306316626",
+    "name": "felpsLUL",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306316626/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "306325886",
+    "name": "felpsLUL",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306325886/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "308018168_HF",
+    "name": "felpsLUL_HF",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/308018168_HF/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "306325886_HF",
+    "name": "felpsLUL_HF",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306325886_HF/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "303359643_SA",
+    "name": "felpsLUL_SA",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303359643_SA/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "303359643_SG",
+    "name": "felpsLUL_SG",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303359643_SG/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "303359643_SQ",
+    "name": "felpsLUL_SQ",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303359643_SQ/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "308018168_SQ",
+    "name": "felpsLUL_SQ",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/308018168_SQ/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "306325886_SQ",
+    "name": "felpsLUL_SQ",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306325886_SQ/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "308018168_TK",
+    "name": "felpsLUL_TK",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/308018168_TK/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "303359643_TK",
+    "name": "felpsLUL_TK",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303359643_TK/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "emotesv2_1c54705be8ff49adac6e8c9cd1ce941b",
+    "name": "felpsLacinho",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_1c54705be8ff49adac6e8c9cd1ce941b/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": false,
+    "is_community": true
+  },
+  {
+    "id": "emotesv2_d58a040760de4db1a6fcd154b5eaad49",
+    "name": "felpsLaugh",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_d58a040760de4db1a6fcd154b5eaad49/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "emotesv2_318c74f36b4e481ea357a62ab7b50efd",
+    "name": "felpsLaugh",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_318c74f36b4e481ea357a62ab7b50efd/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "306325855",
+    "name": "felpsLaugh",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306325855/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "308018158",
+    "name": "felpsLaugh",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/308018158/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "306316337",
+    "name": "felpsLaugh",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306316337/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "303616538",
+    "name": "felpsLaugh",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303616538/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "303616538_SA",
+    "name": "felpsLaugh_SA",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303616538_SA/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "303616538_SG",
+    "name": "felpsLaugh_SG",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303616538_SG/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "303616538_SM",
+    "name": "felpsLaugh_SM",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303616538_SM/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "306325855_SQ",
+    "name": "felpsLaugh_SQ",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306325855_SQ/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "303616538_SQ",
+    "name": "felpsLaugh_SQ",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303616538_SQ/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "306325855_TK",
+    "name": "felpsLaugh_TK",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306325855_TK/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "303616538_TK",
+    "name": "felpsLaugh_TK",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303616538_TK/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "308018158_TK",
+    "name": "felpsLaugh_TK",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/308018158_TK/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "emotesv2_1177408c15ee412bae1046c756befa42",
+    "name": "felpsLembro",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_1177408c15ee412bae1046c756befa42/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "emotesv2_cf8a5fe7449947b0a0921a7e057b7f0a",
+    "name": "felpsLoply",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_cf8a5fe7449947b0a0921a7e057b7f0a/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": false,
+    "is_community": true
+  },
+  {
+    "id": "emotesv2_cf8a5fe7449947b0a0921a7e057b7f0a_TK",
+    "name": "felpsLoply_TK",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_cf8a5fe7449947b0a0921a7e057b7f0a_TK/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "306316501",
+    "name": "felpsLost",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306316501/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "306325842",
+    "name": "felpsLost",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306325842/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "308018162",
+    "name": "felpsLost",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/308018162/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "306325842_BW",
+    "name": "felpsLost_BW",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306325842_BW/default/dark/3.0",
+    "is_variant": true,
+    "is_community": false,
+    "color": ""
+  },
+  {
+    "id": "308018162_HF",
+    "name": "felpsLost_HF",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/308018162_HF/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "306325842_HF",
+    "name": "felpsLost_HF",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306325842_HF/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "306325842_SG",
+    "name": "felpsLost_SG",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306325842_SG/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "308018162_SQ",
+    "name": "felpsLost_SQ",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/308018162_SQ/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "306325842_TK",
+    "name": "felpsLost_TK",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306325842_TK/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "308018162_TK",
+    "name": "felpsLost_TK",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/308018162_TK/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "303324610",
+    "name": "felpsLurk",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303324610/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "308018173",
+    "name": "felpsLurk",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/308018173/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "emotesv2_95ab9dc59a924b6497f6933f858a37c2",
+    "name": "felpsLurk",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_95ab9dc59a924b6497f6933f858a37c2/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "emotesv2_658d7c30eaef470089786929587e5498",
+    "name": "felpsLurk",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_658d7c30eaef470089786929587e5498/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "306316383",
+    "name": "felpsLurk",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306316383/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "306325846",
+    "name": "felpsLurk",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306325846/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "303324610_BW",
+    "name": "felpsLurk_BW",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303324610_BW/default/dark/3.0",
+    "is_variant": true,
+    "is_community": false,
+    "color": ""
+  },
+  {
+    "id": "308018173_HF",
+    "name": "felpsLurk_HF",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/308018173_HF/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "306325846_HF",
+    "name": "felpsLurk_HF",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306325846_HF/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "306316383_HF",
+    "name": "felpsLurk_HF",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306316383_HF/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "303324610_SG",
+    "name": "felpsLurk_SG",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303324610_SG/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "306316383_SG",
+    "name": "felpsLurk_SG",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306316383_SG/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "308018173_SQ",
+    "name": "felpsLurk_SQ",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/308018173_SQ/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "303324610_SQ",
+    "name": "felpsLurk_SQ",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303324610_SQ/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "303324610_TK",
+    "name": "felpsLurk_TK",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303324610_TK/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "306325849",
+    "name": "felpsMacio",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306325849/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "308018176",
+    "name": "felpsMacio",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/308018176/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "306316346",
+    "name": "felpsMacio",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306316346/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "306325849_BT",
+    "name": "felpsMacio_BT",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306325849_BT/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "306325849_BW",
+    "name": "felpsMacio_BW",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306325849_BW/default/dark/3.0",
+    "is_variant": true,
+    "is_community": false,
+    "color": ""
+  },
+  {
+    "id": "306325849_FC",
+    "name": "felpsMacio_FC",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306325849_FC/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "306325849_HF",
+    "name": "felpsMacio_HF",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306325849_HF/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "308018176_HF",
+    "name": "felpsMacio_HF",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/308018176_HF/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "306325849_RB",
+    "name": "felpsMacio_RB",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306325849_RB/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "306325849_SG",
+    "name": "felpsMacio_SG",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306325849_SG/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "306316346_SG",
+    "name": "felpsMacio_SG",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306316346_SG/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "308018176_SG",
+    "name": "felpsMacio_SG",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/308018176_SG/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "308018176_SQ",
+    "name": "felpsMacio_SQ",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/308018176_SQ/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "306325849_SQ",
+    "name": "felpsMacio_SQ",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306325849_SQ/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "306325849_TK",
+    "name": "felpsMacio_TK",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306325849_TK/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "308018176_TK",
+    "name": "felpsMacio_TK",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/308018176_TK/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "emotesv2_c6051d7016ab453783a36029848a45c8",
+    "name": "felpsMaromba",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_c6051d7016ab453783a36029848a45c8/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": false,
+    "is_community": true
+  },
+  {
+    "id": "emotesv2_12b3edee8b1743e0bb8013ed99e85291",
+    "name": "felpsMascrinha",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_12b3edee8b1743e0bb8013ed99e85291/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": false,
+    "is_community": true
+  },
+  {
+    "id": "emotesv2_12b3edee8b1743e0bb8013ed99e85291_HF",
+    "name": "felpsMascrinha_HF",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_12b3edee8b1743e0bb8013ed99e85291_HF/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "306316430",
+    "name": "felpsMeh",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306316430/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "303338419",
+    "name": "felpsMeh",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303338419/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "308018180",
+    "name": "felpsMeh",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/308018180/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "306325821",
+    "name": "felpsMeh",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306325821/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "303338419_BW",
+    "name": "felpsMeh_BW",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303338419_BW/default/dark/3.0",
+    "is_variant": true,
+    "is_community": false,
+    "color": ""
+  },
+  {
+    "id": "303338419_HF",
+    "name": "felpsMeh_HF",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303338419_HF/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "308018180_SG",
+    "name": "felpsMeh_SG",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/308018180_SG/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "308018180_SQ",
+    "name": "felpsMeh_SQ",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/308018180_SQ/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "303338419_SQ",
+    "name": "felpsMeh_SQ",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303338419_SQ/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "306316430_TK",
+    "name": "felpsMeh_TK",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306316430_TK/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "306325821_TK",
+    "name": "felpsMeh_TK",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306325821_TK/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "306325857",
+    "name": "felpsMimir",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306325857/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "306316580",
+    "name": "felpsMimir",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306316580/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "308018182",
+    "name": "felpsMimir",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/308018182/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "303332592",
+    "name": "felpsMimir",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303332592/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "308018182_BW",
+    "name": "felpsMimir_BW",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/308018182_BW/default/dark/3.0",
+    "is_variant": true,
+    "is_community": false,
+    "color": ""
+  },
+  {
+    "id": "303332592_BW",
+    "name": "felpsMimir_BW",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303332592_BW/default/dark/3.0",
+    "is_variant": true,
+    "is_community": false,
+    "color": ""
+  },
+  {
+    "id": "306325857_HF",
+    "name": "felpsMimir_HF",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306325857_HF/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "303332592_SM",
+    "name": "felpsMimir_SM",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303332592_SM/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "303332592_SQ",
+    "name": "felpsMimir_SQ",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303332592_SQ/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "308018182_SQ",
+    "name": "felpsMimir_SQ",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/308018182_SQ/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "306325857_SQ",
+    "name": "felpsMimir_SQ",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306325857_SQ/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "303332592_TK",
+    "name": "felpsMimir_TK",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303332592_TK/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "emotesv2_a99b20f57c1646f3a9484d1f8cd0af1e",
+    "name": "felpsMinhoca",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_a99b20f57c1646f3a9484d1f8cd0af1e/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": false,
+    "is_community": true
+  },
+  {
+    "id": "emotesv2_a99b20f57c1646f3a9484d1f8cd0af1e_BW",
+    "name": "felpsMinhoca_BW",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_a99b20f57c1646f3a9484d1f8cd0af1e_BW/default/dark/3.0",
+    "is_variant": true,
+    "is_community": false,
+    "color": ""
+  },
+  {
+    "id": "emotesv2_a99b20f57c1646f3a9484d1f8cd0af1e_HF",
+    "name": "felpsMinhoca_HF",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_a99b20f57c1646f3a9484d1f8cd0af1e_HF/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "emotesv2_a99b20f57c1646f3a9484d1f8cd0af1e_SQ",
+    "name": "felpsMinhoca_SQ",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_a99b20f57c1646f3a9484d1f8cd0af1e_SQ/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "emotesv2_8b9bf72f658a448db0b16e8a2d1edec2",
+    "name": "felpsNO",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_8b9bf72f658a448db0b16e8a2d1edec2/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "306325891",
+    "name": "felpsOpa",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306325891/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "306316590",
+    "name": "felpsOpa",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306316590/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "308018183",
+    "name": "felpsOpa",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/308018183/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "303437005",
+    "name": "felpsOpa",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303437005/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "306325891_BN",
+    "name": "felpsOpa_BN",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306325891_BN/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "306325891_BW",
+    "name": "felpsOpa_BW",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306325891_BW/default/dark/3.0",
+    "is_variant": true,
+    "is_community": false,
+    "color": ""
+  },
+  {
+    "id": "303437005_BW",
+    "name": "felpsOpa_BW",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303437005_BW/default/dark/3.0",
+    "is_variant": true,
+    "is_community": false,
+    "color": ""
+  },
+  {
+    "id": "308018183_HF",
+    "name": "felpsOpa_HF",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/308018183_HF/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "306325891_HF",
+    "name": "felpsOpa_HF",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306325891_HF/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "303437005_HF",
+    "name": "felpsOpa_HF",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303437005_HF/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "303437005_SA",
+    "name": "felpsOpa_SA",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303437005_SA/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "303437005_SG",
+    "name": "felpsOpa_SG",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303437005_SG/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "308018183_SQ",
+    "name": "felpsOpa_SQ",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/308018183_SQ/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "303437005_SQ",
+    "name": "felpsOpa_SQ",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303437005_SQ/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "306325891_TK",
+    "name": "felpsOpa_TK",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306325891_TK/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "303437005_TK",
+    "name": "felpsOpa_TK",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303437005_TK/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "308018183_TK",
+    "name": "felpsOpa_TK",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/308018183_TK/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "308018187",
+    "name": "felpsPapa",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/308018187/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "303798872",
+    "name": "felpsPapa",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303798872/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "306325914",
+    "name": "felpsPapa",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306325914/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "306316730",
+    "name": "felpsPapa",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306316730/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "306325914_BN",
+    "name": "felpsPapa_BN",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306325914_BN/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "308018187_HF",
+    "name": "felpsPapa_HF",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/308018187_HF/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "303798872_HF",
+    "name": "felpsPapa_HF",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303798872_HF/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "306325914_RB",
+    "name": "felpsPapa_RB",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306325914_RB/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "306325914_SQ",
+    "name": "felpsPapa_SQ",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306325914_SQ/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "303798872_SQ",
+    "name": "felpsPapa_SQ",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303798872_SQ/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "308018187_SQ",
+    "name": "felpsPapa_SQ",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/308018187_SQ/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "308018187_TK",
+    "name": "felpsPapa_TK",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/308018187_TK/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "303798872_TK",
+    "name": "felpsPapa_TK",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303798872_TK/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "306325914_TK",
+    "name": "felpsPapa_TK",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306325914_TK/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "emotesv2_cf06198aa4e049f9912f2a33b896a81a",
+    "name": "felpsParar",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_cf06198aa4e049f9912f2a33b896a81a/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "emotesv2_cf06198aa4e049f9912f2a33b896a81a_HF",
+    "name": "felpsParar_HF",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_cf06198aa4e049f9912f2a33b896a81a_HF/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "emotesv2_0a6ec254c420420eb593b75a1b260851",
+    "name": "felpsPare",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_0a6ec254c420420eb593b75a1b260851/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "emotesv2_628f374b1dcb489584f79c2adbb66803",
+    "name": "felpsPause",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_628f374b1dcb489584f79c2adbb66803/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "emotesv2_628f374b1dcb489584f79c2adbb66803_HF",
+    "name": "felpsPause_HF",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_628f374b1dcb489584f79c2adbb66803_HF/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "emotesv2_628f374b1dcb489584f79c2adbb66803_SG",
+    "name": "felpsPause_SG",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_628f374b1dcb489584f79c2adbb66803_SG/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "emotesv2_628f374b1dcb489584f79c2adbb66803_SQ",
+    "name": "felpsPause_SQ",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_628f374b1dcb489584f79c2adbb66803_SQ/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "emotesv2_628f374b1dcb489584f79c2adbb66803_TK",
+    "name": "felpsPause_TK",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_628f374b1dcb489584f79c2adbb66803_TK/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "emotesv2_45f330e455f743e8b4e8b3f4067b0942",
+    "name": "felpsPensa",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_45f330e455f743e8b4e8b3f4067b0942/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "emotesv2_45f330e455f743e8b4e8b3f4067b0942_HF",
+    "name": "felpsPensa_HF",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_45f330e455f743e8b4e8b3f4067b0942_HF/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "emotesv2_45f330e455f743e8b4e8b3f4067b0942_SG",
+    "name": "felpsPensa_SG",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_45f330e455f743e8b4e8b3f4067b0942_SG/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "emotesv2_45f330e455f743e8b4e8b3f4067b0942_SQ",
+    "name": "felpsPensa_SQ",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_45f330e455f743e8b4e8b3f4067b0942_SQ/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "emotesv2_45f330e455f743e8b4e8b3f4067b0942_TK",
+    "name": "felpsPensa_TK",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_45f330e455f743e8b4e8b3f4067b0942_TK/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "emotesv2_304ccfe4dfdb4b989028233bc1a24f32",
+    "name": "felpsPipoca",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_304ccfe4dfdb4b989028233bc1a24f32/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "emotesv2_4b424bb318274eaf81661e201c838050",
+    "name": "felpsPitico",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_4b424bb318274eaf81661e201c838050/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "emotesv2_4b424bb318274eaf81661e201c838050_HF",
+    "name": "felpsPitico_HF",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_4b424bb318274eaf81661e201c838050_HF/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "emotesv2_4b424bb318274eaf81661e201c838050_SQ",
+    "name": "felpsPitico_SQ",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_4b424bb318274eaf81661e201c838050_SQ/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "emotesv2_bfe838cb77064ec09adc2f1946275290",
+    "name": "felpsPls",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_bfe838cb77064ec09adc2f1946275290/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "emotesv2_73f67972fcd741b0b34db84f0576785b",
+    "name": "felpsPorta",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_73f67972fcd741b0b34db84f0576785b/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "303338408",
+    "name": "felpsPuto",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303338408/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "emotesv2_d87cb65aed4c4f8faf577123363026c0",
+    "name": "felpsPuto",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_d87cb65aed4c4f8faf577123363026c0/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "306325838",
+    "name": "felpsPuto",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306325838/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "308018189",
+    "name": "felpsPuto",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/308018189/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "306316540",
+    "name": "felpsPuto",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306316540/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "303338408_BW",
+    "name": "felpsPuto_BW",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303338408_BW/default/dark/3.0",
+    "is_variant": true,
+    "is_community": false,
+    "color": ""
+  },
+  {
+    "id": "303338408_HF",
+    "name": "felpsPuto_HF",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303338408_HF/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "306325838_HF",
+    "name": "felpsPuto_HF",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306325838_HF/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "303338408_PM",
+    "name": "felpsPuto_PM",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303338408_PM/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "303338408_RD",
+    "name": "felpsPuto_RD",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303338408_RD/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "303338408_SA",
+    "name": "felpsPuto_SA",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303338408_SA/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "303338408_SF",
+    "name": "felpsPuto_SF",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303338408_SF/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "306325838_SQ",
+    "name": "felpsPuto_SQ",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306325838_SQ/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "303338408_SQ",
+    "name": "felpsPuto_SQ",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303338408_SQ/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "308018189_SQ",
+    "name": "felpsPuto_SQ",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/308018189_SQ/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "303338408_TK",
+    "name": "felpsPuto_TK",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303338408_TK/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "306325917",
+    "name": "felpsRIP",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306325917/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "306316733",
+    "name": "felpsRIP",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306316733/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "308018193",
+    "name": "felpsRIP",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/308018193/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "306325917_BW",
+    "name": "felpsRIP_BW",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306325917_BW/default/dark/3.0",
+    "is_variant": true,
+    "is_community": false,
+    "color": ""
+  },
+  {
+    "id": "306325917_SQ",
+    "name": "felpsRIP_SQ",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306325917_SQ/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "308018193_SQ",
+    "name": "felpsRIP_SQ",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/308018193_SQ/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "308018193_TK",
+    "name": "felpsRIP_TK",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/308018193_TK/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "306325917_TK",
+    "name": "felpsRIP_TK",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306325917_TK/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "emotesv2_1b1cc7c61b8b4ede84390cf1ef97ee37",
+    "name": "felpsRelogio",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_1b1cc7c61b8b4ede84390cf1ef97ee37/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": false,
+    "is_community": true
+  },
+  {
+    "id": "emotesv2_1b1cc7c61b8b4ede84390cf1ef97ee37_HF",
+    "name": "felpsRelogio_HF",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_1b1cc7c61b8b4ede84390cf1ef97ee37_HF/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "303332647",
+    "name": "felpsRip",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303332647/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "303332647_BW",
+    "name": "felpsRip_BW",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303332647_BW/default/dark/3.0",
+    "is_variant": true,
+    "is_community": false,
+    "color": ""
+  },
+  {
+    "id": "303332647_HF",
+    "name": "felpsRip_HF",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303332647_HF/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "303332647_PM",
+    "name": "felpsRip_PM",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303332647_PM/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "303332647_RD",
+    "name": "felpsRip_RD",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303332647_RD/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "303332647_SQ",
+    "name": "felpsRip_SQ",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303332647_SQ/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "303332647_TK",
+    "name": "felpsRip_TK",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303332647_TK/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "emotesv2_8d726dfeb1b5437fa83c7803c0b88f0e",
+    "name": "felpsRisadinha",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_8d726dfeb1b5437fa83c7803c0b88f0e/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": false,
+    "is_community": true
+  },
+  {
+    "id": "emotesv2_8d726dfeb1b5437fa83c7803c0b88f0e_HF",
+    "name": "felpsRisadinha_HF",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_8d726dfeb1b5437fa83c7803c0b88f0e_HF/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "emotesv2_8d726dfeb1b5437fa83c7803c0b88f0e_TK",
+    "name": "felpsRisadinha_TK",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_8d726dfeb1b5437fa83c7803c0b88f0e_TK/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "emotesv2_5535bd711bef471c9416771917f2c8b9",
+    "name": "felpsRisco",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_5535bd711bef471c9416771917f2c8b9/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": false,
+    "is_community": true
+  },
+  {
+    "id": "emotesv2_5535bd711bef471c9416771917f2c8b9_BW",
+    "name": "felpsRisco_BW",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_5535bd711bef471c9416771917f2c8b9_BW/default/dark/3.0",
+    "is_variant": true,
+    "is_community": false,
+    "color": ""
+  },
+  {
+    "id": "emotesv2_5535bd711bef471c9416771917f2c8b9_HF",
+    "name": "felpsRisco_HF",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_5535bd711bef471c9416771917f2c8b9_HF/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "emotesv2_5535bd711bef471c9416771917f2c8b9_SG",
+    "name": "felpsRisco_SG",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_5535bd711bef471c9416771917f2c8b9_SG/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "emotesv2_5535bd711bef471c9416771917f2c8b9_SQ",
+    "name": "felpsRisco_SQ",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_5535bd711bef471c9416771917f2c8b9_SQ/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "emotesv2_5535bd711bef471c9416771917f2c8b9_TK",
+    "name": "felpsRisco_TK",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_5535bd711bef471c9416771917f2c8b9_TK/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "306325897",
+    "name": "felpsRs",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306325897/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "308018198",
+    "name": "felpsRs",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/308018198/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "306316636",
+    "name": "felpsRs",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306316636/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "303650884",
+    "name": "felpsRs",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303650884/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "308018198_FF",
+    "name": "felpsRs_FF",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/308018198_FF/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "303650884_HF",
+    "name": "felpsRs_HF",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303650884_HF/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "303650884_PM",
+    "name": "felpsRs_PM",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303650884_PM/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "303650884_RD",
+    "name": "felpsRs_RD",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303650884_RD/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "303650884_SA",
+    "name": "felpsRs_SA",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303650884_SA/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "303650884_SG",
+    "name": "felpsRs_SG",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303650884_SG/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "306325897_SG",
+    "name": "felpsRs_SG",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306325897_SG/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "303650884_SM",
+    "name": "felpsRs_SM",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303650884_SM/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "308018198_SQ",
+    "name": "felpsRs_SQ",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/308018198_SQ/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "303650884_TK",
+    "name": "felpsRs_TK",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303650884_TK/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "308018198_TK",
+    "name": "felpsRs_TK",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/308018198_TK/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "emotesv2_d2fe09e26b8d4edd8cce5ad97706abfc",
+    "name": "felpsRubens",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_d2fe09e26b8d4edd8cce5ad97706abfc/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": false,
+    "is_community": true
+  },
+  {
+    "id": "emotesv2_d2fe09e26b8d4edd8cce5ad97706abfc_HF",
+    "name": "felpsRubens_HF",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_d2fe09e26b8d4edd8cce5ad97706abfc_HF/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "emotesv2_d2fe09e26b8d4edd8cce5ad97706abfc_SQ",
+    "name": "felpsRubens_SQ",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_d2fe09e26b8d4edd8cce5ad97706abfc_SQ/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "emotesv2_d2fe09e26b8d4edd8cce5ad97706abfc_TK",
+    "name": "felpsRubens_TK",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_d2fe09e26b8d4edd8cce5ad97706abfc_TK/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "emotesv2_48289f5873f1411a8edbbbbd920eb7e2",
+    "name": "felpsRumor",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_48289f5873f1411a8edbbbbd920eb7e2/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": false,
+    "is_community": true
+  },
+  {
+    "id": "emotesv2_48289f5873f1411a8edbbbbd920eb7e2_HF",
+    "name": "felpsRumor_HF",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_48289f5873f1411a8edbbbbd920eb7e2_HF/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "462451",
+    "name": "felpsS",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/462451/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "462451_BE",
+    "name": "felpsS_BE",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/462451_BE/default/dark/3.0",
+    "is_variant": true,
+    "is_community": false,
+    "color": ""
+  },
+  {
+    "id": "462451_BW",
+    "name": "felpsS_BW",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/462451_BW/default/dark/3.0",
+    "is_variant": true,
+    "is_community": false,
+    "color": ""
+  },
+  {
+    "id": "462451_HF",
+    "name": "felpsS_HF",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/462451_HF/default/dark/3.0",
+    "is_variant": true,
+    "is_community": false,
+    "color": ""
+  },
+  {
+    "id": "462451_LH",
+    "name": "felpsS_LH",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/462451_LH/default/dark/3.0",
+    "is_variant": true,
+    "is_community": false,
+    "color": ""
+  },
+  {
+    "id": "462451_RB",
+    "name": "felpsS_RB",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/462451_RB/default/dark/3.0",
+    "is_variant": true,
+    "is_community": false,
+    "color": ""
+  },
+  {
+    "id": "462451_RD",
+    "name": "felpsS_RD",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/462451_RD/default/dark/3.0",
+    "is_variant": true,
+    "is_community": false,
+    "color": ""
+  },
+  {
+    "id": "462451_SG",
+    "name": "felpsS_SG",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/462451_SG/default/dark/3.0",
+    "is_variant": true,
+    "is_community": false,
+    "color": ""
+  },
+  {
+    "id": "462451_SQ",
+    "name": "felpsS_SQ",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/462451_SQ/default/dark/3.0",
+    "is_variant": true,
+    "is_community": false,
+    "color": ""
+  },
+  {
+    "id": "462451_TK",
+    "name": "felpsS_TK",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/462451_TK/default/dark/3.0",
+    "is_variant": true,
+    "is_community": false,
+    "color": ""
+  },
+  {
+    "id": "462451_UN",
+    "name": "felpsS_UN",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/462451_UN/default/dark/3.0",
+    "is_variant": true,
+    "is_community": false,
+    "color": ""
+  },
+  {
+    "id": "462451_WH",
+    "name": "felpsS_WH",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/462451_WH/default/dark/3.0",
+    "is_variant": true,
+    "is_community": false,
+    "color": ""
+  },
+  {
+    "id": "emotesv2_7ca41a44d5ea450d84be7264bf81b4f9",
+    "name": "felpsSeta",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_7ca41a44d5ea450d84be7264bf81b4f9/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "emotesv2_8833e5cf67a9429dbd61e6795dd213f8",
+    "name": "felpsSeta",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_8833e5cf67a9429dbd61e6795dd213f8/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "306325833",
+    "name": "felpsShy",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306325833/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "303338807",
+    "name": "felpsShy",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303338807/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "306316686",
+    "name": "felpsShy",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306316686/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "308018200",
+    "name": "felpsShy",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/308018200/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "303338807_BW",
+    "name": "felpsShy_BW",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303338807_BW/default/dark/3.0",
+    "is_variant": true,
+    "is_community": false,
+    "color": ""
+  },
+  {
+    "id": "303338807_HF",
+    "name": "felpsShy_HF",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303338807_HF/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "306325833_RB",
+    "name": "felpsShy_RB",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306325833_RB/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "303338807_SG",
+    "name": "felpsShy_SG",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303338807_SG/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "306325833_SG",
+    "name": "felpsShy_SG",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306325833_SG/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "306325833_SQ",
+    "name": "felpsShy_SQ",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306325833_SQ/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "303338807_SQ",
+    "name": "felpsShy_SQ",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303338807_SQ/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "306325833_TK",
+    "name": "felpsShy_TK",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306325833_TK/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "303338807_TK",
+    "name": "felpsShy_TK",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303338807_TK/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "emotesv2_37c79adda0174183bc51b77b9930cc2b",
+    "name": "felpsSono",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_37c79adda0174183bc51b77b9930cc2b/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "emotesv2_37c79adda0174183bc51b77b9930cc2b_HF",
+    "name": "felpsSono_HF",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_37c79adda0174183bc51b77b9930cc2b_HF/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "emotesv2_37c79adda0174183bc51b77b9930cc2b_SQ",
+    "name": "felpsSono_SQ",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_37c79adda0174183bc51b77b9930cc2b_SQ/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "306325817",
+    "name": "felpsSorrisa",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306325817/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "303324111",
+    "name": "felpsSorrisa",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303324111/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "308018203",
+    "name": "felpsSorrisa",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/308018203/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "306316412",
+    "name": "felpsSorrisa",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306316412/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "308018203_BW",
+    "name": "felpsSorrisa_BW",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/308018203_BW/default/dark/3.0",
+    "is_variant": true,
+    "is_community": false,
+    "color": ""
+  },
+  {
+    "id": "303324111_BW",
+    "name": "felpsSorrisa_BW",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303324111_BW/default/dark/3.0",
+    "is_variant": true,
+    "is_community": false,
+    "color": ""
+  },
+  {
+    "id": "303324111_HF",
+    "name": "felpsSorrisa_HF",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303324111_HF/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "308018203_HF",
+    "name": "felpsSorrisa_HF",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/308018203_HF/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "306325817_RB",
+    "name": "felpsSorrisa_RB",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306325817_RB/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "303324111_SA",
+    "name": "felpsSorrisa_SA",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303324111_SA/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "308018203_SG",
+    "name": "felpsSorrisa_SG",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/308018203_SG/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "306325817_SG",
+    "name": "felpsSorrisa_SG",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306325817_SG/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "303324111_SQ",
+    "name": "felpsSorrisa_SQ",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303324111_SQ/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "308018203_SQ",
+    "name": "felpsSorrisa_SQ",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/308018203_SQ/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "306325817_SQ",
+    "name": "felpsSorrisa_SQ",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306325817_SQ/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "306325817_TK",
+    "name": "felpsSorrisa_TK",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306325817_TK/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "308018203_UN",
+    "name": "felpsSorrisa_UN",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/308018203_UN/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "303332651",
+    "name": "felpsTenso",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303332651/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "303332651_BW",
+    "name": "felpsTenso_BW",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303332651_BW/default/dark/3.0",
+    "is_variant": true,
+    "is_community": false,
+    "color": ""
+  },
+  {
+    "id": "303332651_HF",
+    "name": "felpsTenso_HF",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303332651_HF/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "303332651_RD",
+    "name": "felpsTenso_RD",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303332651_RD/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "303332651_SQ",
+    "name": "felpsTenso_SQ",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303332651_SQ/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "303332651_TK",
+    "name": "felpsTenso_TK",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303332651_TK/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "emotesv2_4bfe7fdea2dd465ab78c6951570317c3",
+    "name": "felpsTristo",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_4bfe7fdea2dd465ab78c6951570317c3/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "emotesv2_76ed81ce54904701b909c8069f51c9d7",
+    "name": "felpsVeio",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_76ed81ce54904701b909c8069f51c9d7/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "emotesv2_76ed81ce54904701b909c8069f51c9d7_SG",
+    "name": "felpsVeio_SG",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_76ed81ce54904701b909c8069f51c9d7_SG/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "emotesv2_76ed81ce54904701b909c8069f51c9d7_SQ",
+    "name": "felpsVeio_SQ",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_76ed81ce54904701b909c8069f51c9d7_SQ/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "emotesv2_76ed81ce54904701b909c8069f51c9d7_TK",
+    "name": "felpsVeio_TK",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_76ed81ce54904701b909c8069f51c9d7_TK/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "emotesv2_b9e09b6e5d6b4c9a94c0017fe0e6de8c",
+    "name": "felpsVelho",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_b9e09b6e5d6b4c9a94c0017fe0e6de8c/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "emotesv2_b9e09b6e5d6b4c9a94c0017fe0e6de8c_SG",
+    "name": "felpsVelho_SG",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_b9e09b6e5d6b4c9a94c0017fe0e6de8c_SG/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "303724036",
+    "name": "felpsW",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303724036/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "308018205",
+    "name": "felpsW",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/308018205/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "306325814",
+    "name": "felpsW",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306325814/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "306316402",
+    "name": "felpsW",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306316402/default/dark/3.0",
+    "color": "laranja",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "306325814_BW",
+    "name": "felpsW_BW",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/306325814_BW/default/dark/3.0",
+    "is_variant": true,
+    "is_community": false,
+    "color": ""
+  },
+  {
+    "id": "308018205_BW",
+    "name": "felpsW_BW",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/308018205_BW/default/dark/3.0",
+    "is_variant": true,
+    "is_community": false,
+    "color": ""
+  },
+  {
+    "id": "303724036_BW",
+    "name": "felpsW_BW",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303724036_BW/default/dark/3.0",
+    "is_variant": true,
+    "is_community": false,
+    "color": ""
+  },
+  {
+    "id": "308018205_HF",
+    "name": "felpsW_HF",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/308018205_HF/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "303724036_SG",
+    "name": "felpsW_SG",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303724036_SG/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "308018205_SQ",
+    "name": "felpsW_SQ",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/308018205_SQ/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "303724036_SQ",
+    "name": "felpsW_SQ",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303724036_SQ/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "308018205_TK",
+    "name": "felpsW_TK",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/308018205_TK/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "303332643",
+    "name": "felpsWow",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303332643/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": false,
+    "is_community": false
+  },
+  {
+    "id": "303332643_BW",
+    "name": "felpsWow_BW",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303332643_BW/default/dark/3.0",
+    "is_variant": true,
+    "is_community": false,
+    "color": ""
+  },
+  {
+    "id": "303332643_HF",
+    "name": "felpsWow_HF",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303332643_HF/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "303332643_PM",
+    "name": "felpsWow_PM",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303332643_PM/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "303332643_RD",
+    "name": "felpsWow_RD",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303332643_RD/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "303332643_SG",
+    "name": "felpsWow_SG",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303332643_SG/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "303332643_SQ",
+    "name": "felpsWow_SQ",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303332643_SQ/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": true,
+    "is_community": false
+  },
+  {
+    "id": "303332643_TK",
+    "name": "felpsWow_TK",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/303332643_TK/default/dark/3.0",
+    "color": "amarelo",
+    "is_variant": true,
+    "is_community": false
+  }
+]
