@@ -5,104 +5,56 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <style>
-    .collapsible {
-      background-color: #777;
-      color: white;
-      cursor: pointer;
-      padding: 18px;
-      width: 100%;
-      border: none;
-      text-align: left;
-      outline: none;
-      font-size: 15px;
-    }
-
-    .active,
-    .collapsible:hover {
-      background-color: #555;
-    }
-
-    .collapsible:after {
-      content: '+';
-      font-size: 13px;
-      color: white;
-      float: right;
-      margin-left: 5px;
-    }
-
-    .active:after {
-      content: "-";
-    }
-
-    .content {
-      padding: 0 18px;
-      max-height: 0;
-      overflow: hidden;
-      transition: all 0.2s ease-out;
-      background-color: #f1f1f1;
-    }
-
-    .icon {
-      font-size: 20px;
-      vertical-align: middle;
-    }
-
-  </style>
+  <link rel="stylesheet" href="index.css">
   <title>Emotes</title>
 </head>
 
 <body>
-  <button class="collapsible">Era Amarela</button>
-  <div id="amarelo" class="content">
+  <details class="collapse">
+    <summary class="title">Era Amarela</summary>
+  <div id="amarelo" class="description">
     {%- for emote in emotes.amarelo -%}
-    <img  src="{{ emote['url'] }}" title="{{ emote['name'] }}" alt="{{ emote['name'] }}">
+    <img loading="lazy" src="{{ emote['url'] }}" title="{{ emote['name'] }}" alt="{{ emote['name'] }}">
     {% endfor %}
   </div>
+  </details>
 
-  <button class="collapsible">Era Laranja</button>
-  <div id="laranja" class="content">
+  <details class="collapse">
+    <summary class="title">Era Laranja</summary>
+  <div id="laranja" class="description">
     {%- for emote in emotes.laranja -%}
-    <img src="{{ emote['url'] }}" title="{{ emote['name'] }}" alt="{{ emote['name'] }}">
+    <img loading="lazy" src="{{ emote['url'] }}" title="{{ emote['name'] }}" alt="{{ emote['name'] }}">
     {% endfor %}
   </div>
+  </details>
 
-  <button class="collapsible">Era Rosa</button>
-  <div id="rosa" class="content">
+  <details class="collapse">
+    <summary class="title">Era Rosa</summary>
+  <div id="rosa" class="description">
     {%- for emote in emotes.rosa -%}
-    <img src="{{ emote['url'] }}" title="{{ emote['name'] }}" alt="{{ emote['name'] }}">
+    <img loading="lazy" src="{{ emote['url'] }}" title="{{ emote['name'] }}" alt="{{ emote['name'] }}">
     {% endfor %}
   </div>
+  </details>
 
-  <button class="collapsible">Espaço comunitário</button>
-  <div id="community" class="content">
+  <details class="collapse">
+    <summary class="title">Espaço Comunitário</summary>
+  <div id="community" class="description">
     {%- for emote in emotes.community -%}
-    <img src="{{ emote['url'] }}" title="{{ emote['name'] }}" alt="{{ emote['name'] }}">
+    <img loading="lazy" src="{{ emote['url'] }}" title="{{ emote['name'] }}" alt="{{ emote['name'] }}">
     {% endfor %}
   </div>
+  </details>
 
-  <button class="collapsible">Variantes</button>
-  <div id="Variantes" class="content">
+  <details class="collapse">
+    <summary class="title">Variantes</summary>
+  <div id="Variantes" class="description">
     {%- for emote in emotes.outros -%}
-    <img src="{{ emote['url'] }}" alt="{{ emote['name'] }}">
+    <img loading="lazy" src="{{ emote['url'] }}" title="{{ emote['name'] }}" alt="{{ emote['name'] }}">
     {% endfor %}
   </div>
+  </details>
 
-  <script>
-    const coll = document.getElementsByClassName("collapsible");
-
-    for (let i = 0; i < coll.length; i++) {
-      coll[i].addEventListener("click", function () {
-        this.classList.toggle("active");
-        const content = this.nextElementSibling;
-        if (content.style.maxHeight) {
-          content.style.maxHeight = null;
-        } else {
-          content.style.maxHeight = content.scrollHeight + "px";
-        }
-      });
-    }
-  </script>
 </body>
 
 </html>
