@@ -1,8 +1,12 @@
-import pika
+import os
 
+import pika
+from dotenv import load_dotenv
+
+load_dotenv()
 
 def send(message: str, queue: str):
-    connection = pika.BlockingConnection(pika.ConnectionParameters("localhost"))
+    connection = pika.BlockingConnection(pika.ConnectionParameters("localhost", credentials=pika.PlainCredentials(os.environ["rabbit_user"], os.environ["rabbit_password"])))
     channel = connection.channel()
 
     channel.queue_declare(queue=queue, durable=True)

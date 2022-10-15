@@ -1,11 +1,13 @@
 import functools
+import os
 import threading
 
 import pika
+from dotenv import load_dotenv
 
 import check_chat
 
-
+load_dotenv()
 def ack_message(ch, delivery_tag):
     """Note that `ch` must be the same pika channel instance via which
     the message being ACKed was retrieved (AMQP protocol constraint).
@@ -33,7 +35,7 @@ def on_message(ch, method_frame, _header_frame, body, args):
     thrds.append(t)
 
 
-parameters = pika.ConnectionParameters("localhost")
+parameters = pika.ConnectionParameters("localhost", credentials=pika.PlainCredentials(os.environ["rabbit_user"], os.environ["rabbit_password"]))
 connection = pika.BlockingConnection(parameters)
 
 channel = connection.channel()
