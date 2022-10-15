@@ -1,0 +1,13 @@
+version: '3'
+
+services:
+  rabbit:
+    image: rabbitmq:3.10-management
+    volumes:
+      - ./rabbitData:/var/lib/rabbitmq:rw
+    ports:
+      - 5672:5672
+      - 15672:15672
+    network_mode: host
+    stdin_open: true
+    tty: true

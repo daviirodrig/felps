@@ -1,0 +1,5 @@
+rabbitData
+.venv
+.env
+__pycache__
+processed.json
