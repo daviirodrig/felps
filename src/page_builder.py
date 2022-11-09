@@ -4,10 +4,10 @@ from jinja2 import Template
 
 
 def build():
-    with open("../templates/template.html") as f:
+    with open("templates/template.html") as f:
         template = Template(f.read())
 
-    with open("../categorized_emotes.json", 'r') as f:
+    with open("categorized_emotes.json", 'r') as f:
         emotes = json.load(f)
 
     obj = {
@@ -22,5 +22,7 @@ def build():
 
     rendered = template.render(emotes=obj)
 
-    with open("../index.html", "+w") as f:
+    with open("index.html", "+w") as f:
         f.write(rendered)
+
+build()

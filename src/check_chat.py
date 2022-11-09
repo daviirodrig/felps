@@ -38,6 +38,7 @@ def main(vod_id: Union[int, str]):
                 processed_emotes = [x["id"] for x in emotes]
                 if emote["id"] not in processed_emotes:
                     emotes.append(emote)
+                    emotes = sorted(emotes, key=lambda d: d['name'])
                     f.seek(0)
                     f.write(json.dumps(emotes, indent=2))
                     f.truncate()
