@@ -4384,6 +4384,14 @@
     "is_community": false
   },
   {
+    "id": "emotesv2_6854a4257f444ba09883277d14164bc4",
+    "name": "felpsPisa",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_6854a4257f444ba09883277d14164bc4/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": false,
+    "is_community": true
+  },
+  {
     "id": "emotesv2_4b424bb318274eaf81661e201c838050",
     "name": "felpsPitico",
     "url": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_4b424bb318274eaf81661e201c838050/default/dark/3.0",
