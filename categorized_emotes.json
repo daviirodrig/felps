@@ -624,6 +624,14 @@
     "is_community": false
   },
   {
+    "id": "emotesv2_2504efc50f7a4f7b89cc9a435f7a422c",
+    "name": "felpsBengala",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_2504efc50f7a4f7b89cc9a435f7a422c/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": false,
+    "is_community": true
+  },
+  {
     "id": "emotesv2_9bc2cdf1d84f4199b8f0ef1d256d273d",
     "name": "felpsBleh",
     "url": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_9bc2cdf1d84f4199b8f0ef1d256d273d/default/dark/3.0",
