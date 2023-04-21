@@ -3136,6 +3136,14 @@
     "is_community": false
   },
   {
+    "id": "emotesv2_416610fbd1c949f8b2f783a502244518",
+    "name": "felpsJanela",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_416610fbd1c949f8b2f783a502244518/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": false,
+    "is_community": true
+  },
+  {
     "id": "emotesv2_91bd43467edb42a38e00988f4d2a6094",
     "name": "felpsJoia",
     "url": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_91bd43467edb42a38e00988f4d2a6094/default/dark/3.0",
