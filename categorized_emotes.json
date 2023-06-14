@@ -7,6 +7,22 @@
     "is_variant": false,
     "is_community": false
   },
+    {
+    "id": "emotesv2_d2986a57a34c43e0a0db559adf08aff9",
+    "name": "felpsMinecraft",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_d2986a57a34c43e0a0db559adf08aff9/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": false,
+    "is_community": true
+  },
+      {
+    "id": "emotesv2_19e1398f15784986bdc6a8bd78c75915",
+    "name": "felpsCapivara",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_19e1398f15784986bdc6a8bd78c75915/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": false,
+    "is_community": true
+  },
   {
     "id": "306316485",
     "name": "felps190",
