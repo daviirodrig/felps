@@ -9,6 +9,7 @@ def build():
 
     with open("categorized_emotes.json", 'r') as f:
         emotes = json.load(f)
+        emotes = sorted(emotes, key=lambda d: d['name'])
 
     obj = {
         "amarelo"  : [x for x in emotes if x["color"] == "amarelo" and x["is_variant"] is False],
