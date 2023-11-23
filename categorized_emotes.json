@@ -7,6 +7,30 @@
     "is_variant": false,
     "is_community": false
   },
+    {
+    "id": "emotesv2_116c7721c9f74fd4b602c4363b64efe0",
+    "name": "felpsCafe",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_116c7721c9f74fd4b602c4363b64efe0/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": false,
+    "is_community": false
+  },
+    {
+    "id": "emotesv2_6fc584c96ca9480b8c647186d602d358",
+    "name": "felpsDesjoia",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_6fc584c96ca9480b8c647186d602d358/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": false,
+    "is_community": false
+  },
+    {
+    "id": "emotesv2_9e343a8d461447309993db7030ba1fb5",
+    "name": "felpsNerd",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_9e343a8d461447309993db7030ba1fb5/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": false,
+    "is_community": false
+  },
   {
     "id": "emotesv2_81e02a7fc220469494909080ea1ed662",
     "name": "felpsSafalefos",
