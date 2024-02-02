@@ -7,6 +7,14 @@
     "is_variant": false,
     "is_community": false
   },
+  {
+    "id": "emotesv2_cb3967306d704bd79f5b25e2481fd67c",
+    "name": "felpsCartaDiabo",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_cb3967306d704bd79f5b25e2481fd67c/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": false,
+    "is_community": true
+  },
  {
     "id": "emotesv2_fda57953d00b43a693f0b3fa9198de76",
     "name": "felpsUranio",
