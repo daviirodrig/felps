@@ -7,6 +7,14 @@
     "is_variant": false,
     "is_community": false
   },
+    {
+    "id": "emotesv2_ce0b8773128f40dd90913281e677ba32",
+    "name": "felpsAmizade",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_ce0b8773128f40dd90913281e677ba32/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": false,
+    "is_community": true
+  },
   {
     "id": "emotesv2_cb3967306d704bd79f5b25e2481fd67c",
     "name": "felpsCartaDiabo",
