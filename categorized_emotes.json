@@ -7,6 +7,14 @@
     "is_variant": false,
     "is_community": false
   },
+          {
+    "id": "emotesv2_e29cd50a6f8547b597417c35ed0bd3ec",
+    "name": "felpsTelefoney",
+    "url": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_e29cd50a6f8547b597417c35ed0bd3ec/default/dark/3.0",
+    "color": "rosa",
+    "is_variant": false,
+    "is_community": true
+  },
         {
     "id": "emotesv2_bfc8cfb99ab14471a2937d6c3cd860c2",
     "name": "felpsLife",
